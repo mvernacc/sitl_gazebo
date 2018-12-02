@@ -1,6 +1,6 @@
-<!-- Model of Intel Aero drone. Based on solo.sdf -->
+<!-- Model of Intel Aero Ready-to-Fly Drone. Based on solo.sdf -->
 <sdf version='1.5'>
-  <model name='intel_aero'>
+  <model name='aerofc'>
     <!-- Intel aero body -->
     <link name='base_link'>
       <pose>0 0 0 0 0 0</pose>
